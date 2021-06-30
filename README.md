@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning Microservices and Mobile security
 - 📫 How to reach me: locat369@outlook.com
 
-<!---
-locat369/locat369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Reject [996](https://996.icu/#/en_US), WLB only.
+
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=flycash&show_icons=true&theme=radical)
